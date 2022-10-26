@@ -13,7 +13,11 @@ Learn about basic fundamentals of blockchain architecture.
 
 ## Key Features
 
-1. All the data is <h1> cryptographically hashed </h1> using public private key infrastructure.
+<ol>
+  <li>All the data is <h1> cryptographically hashed </h1> using public private key infrastructure.</li>
+</ol>  
+
+1. 
 2. Every Block is <h1> time-stamped and chronologically linked </h1>.
 3. The data is immutable.
 4. Merkle Roots and Previous hash can be used to search the data in any block.
