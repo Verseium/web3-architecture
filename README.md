@@ -27,6 +27,29 @@ Learn about basics of Blockchain, Networks and Nodes, Wallets and hashing algori
 
 ### Near
 
+### Programming Languages
+
+* Frontend/Backend
+
+1. Javascript
+2. Python
+3. Rust
+4. Golang
+
+
+* Platform Specific
+
+1. Solidity
+2. VYper
+3. Rust
+4. Yul
+
+* Libraries
+
+1. Ethers.js
+2. web3.js
+3. web3.py
+
 ## Blockchain Internal working and architecture
 
 ## Components for architecture
