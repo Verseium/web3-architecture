@@ -43,8 +43,31 @@ Asymmetric Cryptographic algorithms like SHA256 or ECDSA algorithms are used to 
 
 1. Txns are just records of data in chronological order that are hashed.
 2. Txns are stored in a merkle tree
-3. All the txns are collected and stored in a Transaction pool.
+3. All the txns are collected and stored in a Transaction pool/Memorypool.
 4. This pool is added to the blockchain by the miners.
 
 ![Fundamentals-3](https://github.com/Verseium/web3-architecture/blob/main/Diagrams/Fundamentals-3.drawio.png)
+
+## Wallets
+
+### Determenistic wallets
+
+1. Heirarchial determenestic is a type of wallet(app) which is generated from a seed phrase.
+2. This seed phrase can generate child keys from parent key which means that one seed can genearte infinte public and private key pairs.
+3. The BIP 32 Protocol is the tech behind these generation.
+
+
+### Mnemonic Wallets
+
+
+
+## Smart Contracts
+
+
+
+## Blockchain Alogorithms and cryptography
+
+### ECDSA(Elliptic Curve Digital Signature Algorithm)
+
+
 
