@@ -31,3 +31,12 @@ Learn about basic fundamentals of blockchain architecture.
 7. All nodes combined is called as a **Network**.
 8. Network with real life transactions is called **Mainnet**.
 9. Networks with test transactions and dummy data for testing and experimentation are called **TestNets**.
+
+
+## Public-Private key
+
+Asymmetric Cryptographic algorithms like SHA256 or ECDSA algorithms are used to generate the keys.
+
+![Fundamentals-2](https://github.com/Verseium/web3-architecture/blob/main/Diagrams/Fundamentals-2.drawio.png)
+
+
