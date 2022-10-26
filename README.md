@@ -4,6 +4,9 @@ This file is for learning web3 architecture
 
 ## Fundamentals
 
+Learn about basics of Blockchain, Networks and Nodes, Wallets and hashing algorithms
+
+[Fundamentals](https://github.com/Verseium/web3-architecture/tree/main/Fundamentals)
 
 
 ## Web3 as a solution
