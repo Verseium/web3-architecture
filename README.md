@@ -4,6 +4,8 @@ This file is for learning web3 architecture
 
 ## Fundamentals
 
+
+
 ## Web3 as a solution
 
 ## Tools
