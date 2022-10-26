@@ -52,7 +52,7 @@ Learn about basics of Blockchain, Networks and Nodes, Wallets and hashing algori
 
 ## Blockchain Internal working and architecture
 
-![Internal](https://github.com/Verseium/web3-architecture/blob/main/Diagrams/internal-architecture.drawio.png)
+![Internal]([https://github.com/Verseium/web3-architecture/blob/main/Diagrams/internal-architecture.drawio.png](https://github.com/Verseium/web3-architecture/blob/main/Diagrams/Internal-architecture.drawio.png))
 
 ## Components for architecture
 
