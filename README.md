@@ -13,6 +13,20 @@ Learn about basics of Blockchain, Networks and Nodes, Wallets and hashing algori
 
 ## Tools
 
+### Ethereum
+
+### Polygon L2
+
+### Arbitrum
+
+### Optimistic
+
+### Solana
+
+### Polkadot
+
+### Near
+
 ## Blockchain Internal working and architecture
 
 ## Components for architecture
